@@ -14,7 +14,7 @@ for item in sList:
     else:
         sDict[item] += 1  # 第二次或之后遇到的单词在原词频上累加1
 print(sDict)
-····
+````
 if-else部分为经典的从数据中创建字典的方式，该语句块也常用如下代码替代：
 sDict[item] = sDict.get(item, 0) + 1
 
@@ -41,4 +41,4 @@ if result == -1:
     print("not found")
 else:
     print(result)
-····
+````
