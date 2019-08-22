@@ -1,5 +1,7 @@
 .. _quickstart:
 
+###官网 http://cn.python-requests.org/zh_CN/latest/user/quickstart.html
+
 快速上手
 ==========
 
