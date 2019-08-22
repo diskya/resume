@@ -3,8 +3,6 @@
 快速上手
 ==========
 
-.. module:: requests.models
-
 迫不及待了吗？本页内容为如何入门 Requests 提供了很好的指引。其假设你已经安装了 Requests。\
 如果还没有，去\ :ref:`安装 <install>`\ 一节看看吧。
 
